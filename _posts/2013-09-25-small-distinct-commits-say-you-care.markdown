@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Small, Distinct Commits Say You Care
+title: Small, Distinct Commits Say You Care (BNR)
 ---
 
 Originally posted at [Big Nerd Ranch](http://www.bignerdranch.com/blog/small-distinct-commits-say-you-care)
